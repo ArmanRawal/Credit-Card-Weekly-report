@@ -1,16 +1,23 @@
-# Credit-Card-Weekly-report
-Here, I analyzed the Credit Card complete data and made some insights
+Data Preparation: Collected and cleaned transaction data.
 
-Objective
+Exploratory Data Analysis (EDA): Identified spending trends using visualizations.
 
-Data processing
+Feature Engineering: Created new data features like average spend and credit utilization.
 
-Data defination language
+Customer Segmentation: Used K-Means clustering to group customers by spending behavior.
 
-MY SQL server
+Predictive Modeling: Built models to predict future spending and payment patterns.
 
-steps 
+Results Visualization: Presented insights through interactive Tableau dashboards.
 
-Insights 
+Skills and Tools:
 
-power bi real time updation project
+MS Excel
+
+MySQL Server
+
+Data Cleaning and Analysis
+
+Clustering and Predictive Modeling
+
+Data Visualization (Power BI)
